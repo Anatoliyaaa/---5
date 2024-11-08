@@ -7,7 +7,7 @@ namespace TestLab4
     public class Risk
     {
         public string Name { get; set; }
-        public double Probability { get; set; } // Вероятность
+        public double Probability { get; set; } // Верccccccccccccccccccccccccоятность
         public double Impact { get; set; } //Влияние
         public string Comment { get; set; } //Влияние
 
